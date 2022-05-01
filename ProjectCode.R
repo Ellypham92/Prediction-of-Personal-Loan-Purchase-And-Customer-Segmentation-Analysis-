@@ -1,11 +1,4 @@
-#Final Project 
-#Team:3
-#Team Members: 
-# Elly Pham         : 33.33% contribution
-# Denish Shrestha   : 33.33% contribution
-# Benoy Thomas      : 33.33% contribution
-
-#Submission Date: 04/29/2022
+#Date: 04/29/2022
 
 #Problem Description: Prediction of Personal Loan Purchase And Customer Segmentation Analysis 
 
