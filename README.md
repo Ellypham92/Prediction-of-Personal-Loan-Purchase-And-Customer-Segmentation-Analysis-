@@ -35,7 +35,7 @@ The dataset has 5000 Records and 14 Features.
 - Online
 - CreditCard
 
-### DESCRIPTIVE ANALYSIS
+### :chart_with_upwards_trend: DESCRIPTIVE ANALYSIS
 
 ###### CORRELATION AMONG FEATURES
 
@@ -53,7 +53,7 @@ Cluster 1: Younger population, lower income
 Cluster 2: Older population, mostly lower income
 Cluster 3: Mostly middle age population, higher income	
 
-### PREDICTIVE ANALYSIS
+### :rocket: PREDICTIVE ANALYSIS
 
 - Candidate 1: k-NN
 <img width="204" alt="image" src="https://user-images.githubusercontent.com/64395120/180674577-307b8b7f-9142-4129-8178-a26ce91cabeb.png">
@@ -78,7 +78,7 @@ Automatic parameter tuning
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/64395120/180674739-623d6fb1-e3d4-49cf-a347-47b8d1f3ef9c.png">
 
 
-### CONCLUSION
+### :mag_right: CONCLUSION
 
 - Our decision tree model indicates these features are the most important deciding factors influencing the loan purchasing decision are Age, Income, CCAvg, Education
 
