@@ -1,6 +1,6 @@
 # Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis
 
-## PROJECT GOALS
+:pushpin:  ## PROJECT GOALS
 
 To analyze the effectiveness of existing marketing strategies 
 
