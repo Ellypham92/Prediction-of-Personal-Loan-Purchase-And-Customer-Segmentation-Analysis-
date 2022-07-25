@@ -2,7 +2,7 @@
 
 ### :pushpin: PROJECT GOALS
 
-To analyze the effectiveness of existing marketing strategies 
+<ul> To analyze the effectiveness of existing marketing strategies <ul>
 
 To find the Machine Learning models that help in identifying potential customers 
 
