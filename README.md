@@ -84,21 +84,21 @@ Automatic parameter tuning
 
 - Target the untapped customer base for personal loan market
      - CLUSTER 3	
-            - Higher Income
-            - CCAVG: Higher spending 
-            - Mortgage: Yes
-            - Securities Account: Yes
-            - CD Account: Yes
-            - Online: Active online user
-            - Credit Card with another bank
-            - Reason: features suggest lower default risk
+          - Higher Income
+          - CCAVG: Higher spending 
+          - Mortgage: Yes
+          - Securities Account: Yes
+          - CD Account: Yes
+          - Online: Active online user
+          - Credit Card with another bank
+          - Reason: features suggest lower default risk
  
-      - CLUSTER 1  		
-            - Younger generation
-            - Population density
-            - CCAVG: less spending 
-            - Mortgage: lower amount
-            - Reason: large population size with potential of goodwill
+   - CLUSTER 1  	
+        - Younger generation
+        - Population density
+        - CCAVG: less spending 
+        - Mortgage: lower amount
+        - Reason: large population size with potential of goodwill
 
 - Decision Tree and Random Forest appeared to be the best models with highest performance in our scenario
 
