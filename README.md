@@ -2,11 +2,11 @@
 
 ### :pushpin: PROJECT GOALS
 
-<ul> To analyze the effectiveness of existing marketing strategies <ul>
+- To analyze the effectiveness of existing marketing strategies 
 
-To find the Machine Learning models that help in identifying potential customers 
+- To find the Machine Learning models that help in identifying potential customers 
 
-To help financial institution in maximizing the sales performance which helps a strong growth in market share
+- To help financial institution in maximizing the sales performance which helps a strong growth in market share
 
 ### :question: RESEARCH QUESTIONS
 1. What are the most important features influencing the loan purchasing decision? And why?
