@@ -16,24 +16,24 @@
 5. What are the solutions for the next marketing campaign? 
 
 
-## DATA SOURCE
+### :blue_book: DATA SOURCE
 Kaggle: https://www.kaggle.com/teertha/personal-loan-modeling
 
 The dataset has 5000 Records and 14 Features.
-ID					
-Education
-Age
-Experience
-Mortgage
-Income
-ZIP Code
-Family
-CCAvg
-Personal Loan
-Securities Account
-CD Account
-Online
-CreditCard
+- ID					
+- Education
+- Age
+- Experience
+- Mortgage
+- Income
+- ZIP Code
+- Family
+- CCAvg
+- Personal Loan
+- Securities Account
+- CD Account
+- Online
+- CreditCard
 
 ## DESCRIPTIVE ANALYSIS
 
