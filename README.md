@@ -83,7 +83,7 @@ Automatic parameter tuning
 - Our decision tree model indicates these features are the most important deciding factors influencing the loan purchasing decision are Age, Income, CCAvg, Education
 
 - Target the untapped customer base for personal loan market
- - CLUSTER 3	
+  - CLUSTER 3	
       - CLUSTER 3	
             - Higher Income
             - CCAVG: Higher spending 
