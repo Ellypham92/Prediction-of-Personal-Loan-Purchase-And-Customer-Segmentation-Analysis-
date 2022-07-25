@@ -8,7 +8,7 @@ To find the Machine Learning models that help in identifying potential customers
 
 To help financial institution in maximizing the sales performance which helps a strong growth in market share
 
-## RESEARCH QUESTIONS
+## :question: RESEARCH QUESTIONS
 1. What are the most important features influencing the loan purchasing decision? And why?
 2. How are the features correlated to each other?
 3. What are the key characteristics of each cluster among the sample population? 
