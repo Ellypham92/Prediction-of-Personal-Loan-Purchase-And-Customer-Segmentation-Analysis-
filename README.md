@@ -102,4 +102,5 @@ Automatic parameter tuning
 
 - Decision Tree and Random Forest appeared to be the best models with highest performance in our scenario
 
-### :video_camera: [YouTube Highlight](https://www.youtube.com/watch?v=CM71NL_BHHc)
+### :video_camera: Project Highlight on Youtube
+- [View Youtube](https://www.youtube.com/watch?v=CM71NL_BHHc)
